@@ -2,7 +2,9 @@
 Sample Code for the Software Engeer Application at Swift
 
 
-Project created using Java
+I created this project created using Java.
+
+This project contains two files: FizzBuzz.java, and FizzBuzzMainTest.java
 
 Main fucntion is in FizzBuzz.java
 
