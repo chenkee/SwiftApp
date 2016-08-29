@@ -1,4 +1,4 @@
-# Software Engineer Aplication for Swift Navigation
+# Software Engineer Aplication for Swift Navigation from Max Chen
 
 I created this project created using Java.
 
